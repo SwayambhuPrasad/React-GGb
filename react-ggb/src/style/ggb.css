@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+    padding:0;
+    margin: 0;
+}
+#ggb-element{
+    display: flex;
+    height: 450px;
+    max-width: 720px !important;
+    width: 90% !important;
+    margin-top: 60px;
+    border: 0;
+    padding-left: 0px;
+}
+#slider{
+    height: 20px;
+    width: 200px;
+   margin-left: 260px;
+   margin-top: 50px;
+}
+.appletStyle{
+    border-style: hidden !important;
+}
